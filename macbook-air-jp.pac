@@ -5204,7 +5204,8 @@ var domains = {
   "hsselite.com": 1, 
   "1-apple.com.tw": 1, 
   "gist.github.com": 1, 
-  "beego.me": 1
+  "beego.me": 1,
+  "pub.dev": 1
 };
 
 var direct = 'DIRECT;';
